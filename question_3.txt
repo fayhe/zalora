@@ -7,6 +7,7 @@ a) Write a bash script for the below set of tasks:
 - run UpdateWebtrekk.sql which is located in "home/Marketing Report/Scripts/" on a PostgreSQL DB (host=10.11.12.13 port=5439 database=zalora username=helloDB password=world)
 ]
 
+
 ftp -n<<!
 open 10.11.12.13
 user helloFTP world
